@@ -34,7 +34,7 @@ Repository: [University Introductory Campaign](https://github.com/peles-taras/Un
 
 
 
-## Sosicals <img src="https://github.com/peles-taras/peles-taras/assets/92885035/524e4e12-adf9-4ea2-8133-cc61ca2b4db6" alt="Shop Icon" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 5px;">
+## Socials <img src="https://github.com/peles-taras/peles-taras/assets/92885035/524e4e12-adf9-4ea2-8133-cc61ca2b4db6" alt="Shop Icon" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 5px;">
 Feel free to reach out to me or connect with me on the following platforms:
 
 
