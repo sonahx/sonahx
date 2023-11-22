@@ -44,8 +44,8 @@
 <h1>Projects:</h1>
 
 ### <div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=TVShows_Website)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=Fruit_Shop)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=TVShows_Website)](https://github.com/peles-taras/TVShows_Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=Fruit_Shop)](https://github.com/peles-taras/Fruit_Shop)
 </div>
 
 ### <div>
