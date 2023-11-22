@@ -1,46 +1,45 @@
+![download](https://github.com/peles-taras/peles-taras/assets/92885035/7c35b3fc-e42f-4c66-9d39-4309b516ba71)
 
-<h3 align="center" display="inline">Java Developer</h3> 
+<h1 align="center">Java Developer from Ukraine</h1>
 
-
-
-
-## About Me <img src="https://github.com/peles-taras/peles-taras/assets/92885035/5d40d0a2-b572-418e-8c11-b76250a2c160" alt="Shop Icon" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 5px;">
-I'm a passionate software developer with experience in web application development. I love creating meaningful and user-friendly solutions to complex problems. Here are some of my projects:
-
-### • TV Show Companion <img src="https://github.com/peles-taras/peles-taras/assets/92885035/d3d21242-0e18-422b-937c-419bc0e64aa8" alt="Shop Icon" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 5px;">
-A dynamic web application developed using Spring, designed to elevate user's television viewing experience. Users are able to organize their favorite shows and keep track of episode progress. Interactive community features allow users to connect with other users and engage in discussions.
-
-Repository: [TV Show Companion](https://github.com/peles-taras/TVShows_Website)
-<br>
+![](https://komarev.com/ghpvc/?username=peles-taras)
 
 
+### <ul>
+### <li>Open for new opportunities.</li>
+### <li>Take a look at my CV [here]().</li>
+### <li>Currently working on [TV shows tracker platform](https://whatepisode.online).</li>
+### <li>How to reach me: [pelestaras@gmail.com](mailto:pelestaras@gmail.com), or through:</li>
+</ul>
 
+<h1>Socials:</h1>
 
+### <div>
+<a href="https://t.me/noampersone"><img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/4c55e8a7-7109-4c23-9e06-4df1a8852107" alt="discord"></a>
+<a href="https://www.linkedin.com/in/taras-peles"><img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/7b2e11cd-2bab-4f8b-8467-832594ff313d" alt="linkedin"></a>
+<a href="https://t.me/noampersone"><img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/b389da29-aa5f-4d37-9585-ce5d7717b7b9" alt="telegram"></a>
+</div>
 
-### • Fruit Shop <img src="https://github.com/peles-taras/peles-taras/assets/92885035/f76c4d68-3f37-4324-96e9-12fe4b576f69" alt="Shop Icon" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 5px;">
-Web application built with Spring Rest API and Angular. Allows users to authenticate for a personalized shopping experience, browse a range of products, and place orders with ease, while the administrator handles product and order management.
+<h1>Languages:</h1>
 
+<div>
+<img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/58a3a02f-be4a-468a-b2a4-c4fae9014c09" alt="java">
+<img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/448755f8-f8ac-4885-8fda-87b809d7453f" alt="html">
+<img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/671a165f-1cec-4b92-8313-f08268c48656" alt="css">
+<img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/9d73978f-9509-4286-a621-bc1bb59aa121" alt="js">
+<img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/d86f4bc2-e9ed-4361-94d2-450ddb66242f" alt="typescript">
+</div>
 
+<h1>Tools:</h1>
 
-Repository: [Fruit Shop](https://github.com/peles-taras/Fruit_Shop)
-<br>
+<div>
+<img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/58a3a02f-be4a-468a-b2a4-c4fae9014c09" alt="java">
+</div>
 
-
-### • University Introductory Campaign <img src="https://github.com/peles-taras/peles-taras/assets/92885035/cd36bcde-46df-4603-a5c1-0c1b72f54cdf" alt="Shop Icon" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 5px;">
-Platform for a college application journey built with Spring. Users are able to create an account, fill in their profile with relevant information, and apply to the universities of their choice. Designed to track exam and certificate scores and allows enhancing the user's profile. The administrator manages the universities and ensures that the selection process is fair.
-
-Repository: [University Introductory Campaign](https://github.com/peles-taras/University-Introductory-Campaign)
-<br>
-
-
-
-## Socials <img src="https://github.com/peles-taras/peles-taras/assets/92885035/524e4e12-adf9-4ea2-8133-cc61ca2b4db6" alt="Shop Icon" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 5px;">
-Feel free to reach out to me or connect with me on the following platforms:
-
-
-- <img src="https://github.com/peles-taras/peles-taras/assets/92885035/b4e764ad-7152-41d2-877e-09219ba31688" alt="Shop Icon" style="height: 15px; width: 15px; margin-right: 5px;"> Telegram: [@noampersone](https://t.me/noampersone) 
-
-- <img src="https://github.com/peles-taras/peles-taras/assets/92885035/94e4720e-803b-473c-a4c0-e0bcda67f7da" alt="Shop Icon" style="height: 15px; width: 15px; margin-right: 5px;">  LinkedIn: [Peles Taras](https://www.linkedin.com/in/taras-peles) 
-
-
-
+### <div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peles-taras&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peles-taras&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peles-taras&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=peles-taras&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peles-taras&theme=solarized_dark)
+</div>
