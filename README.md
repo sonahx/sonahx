@@ -1,6 +1,6 @@
 ![profile-header](https://github.com/peles-taras/peles-taras/assets/92885035/427e8376-13ec-4c37-923b-0833a4bbb038)
 
-<h1 align="center">Java Developer from Ukraine</h1>
+<h1 align="center">Java Developer from Ukraine <img height="18" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg"></h1>
 
 ![](https://komarev.com/ghpvc/?username=peles-taras)
 
@@ -43,9 +43,12 @@
 
 <h1>Projects:</h1>
 
+### <div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=TVShows_Website)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=Fruit_Shop)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-### <div align="center">
+### <div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peles-taras&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peles-taras&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peles-taras&theme=solarized_dark)
