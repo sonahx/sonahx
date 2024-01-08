@@ -6,8 +6,7 @@
 
 ### <ul>
 ### <li>Open for new opportunities.</li>
-### <li>Take a look at my CV [here]().</li>
-### <li>Currently working on [TV shows tracker platform](https://whatepisode.online).</li>
+### <li>Currently working on [Zenith chatting platform](https://github.com/peles-taras/ZenithChat-frontend).</li>
 ### <li>How to reach me: [pelestaras@gmail.com](mailto:pelestaras@gmail.com), or through:</li>
 </ul>
 
@@ -23,6 +22,7 @@
 
 <div>
 <img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/58a3a02f-be4a-468a-b2a4-c4fae9014c09" alt="java">
+<img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/780a2157-9a3b-4b7f-8232-80892157feb2" alt="Vue.js">
 <img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/448755f8-f8ac-4885-8fda-87b809d7453f" alt="html">
 <img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/671a165f-1cec-4b92-8313-f08268c48656" alt="css">
 <img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/9d73978f-9509-4286-a621-bc1bb59aa121" alt="js">
