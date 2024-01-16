@@ -1,5 +1,3 @@
-![profile-header](https://github.com/peles-taras/peles-taras/assets/92885035/427e8376-13ec-4c37-923b-0833a4bbb038)
-
 <h1 align="center">Java Developer from Ukraine <img height="18" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg"></h1>
 
 ![](https://komarev.com/ghpvc/?username=peles-taras)
