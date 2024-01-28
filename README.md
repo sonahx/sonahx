@@ -4,7 +4,7 @@
 
 ### <ul>
 ### <li>Open for new opportunities.</li>
-### <li>Currently working on [Zenith chatting platform](https://github.com/peles-taras/ZenithChat-frontend).</li>
+### <li>Currently working on [Zenith chatting platform](https://github.com/peles-taras/ZenithChat-backend).</li>
 ### <li>How to reach me: [pelestaras@gmail.com](mailto:pelestaras@gmail.com), or through:</li>
 </ul>
 
@@ -43,7 +43,7 @@
 
 ### <div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=TVShows_Website)](https://github.com/peles-taras/TVShows_Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=Fruit_Shop)](https://github.com/peles-taras/Fruit_Shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=ZenithChat-backend)](https://github.com/peles-taras/ZenithChat-backend)
 </div>
 
 ### <div>
