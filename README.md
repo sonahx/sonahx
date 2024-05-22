@@ -1,5 +1,3 @@
-<h1 align="center">Java Developer from Ukraine <img height="18" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg"></h1>
-
 ![](https://komarev.com/ghpvc/?username=peles-taras)
 
 ### <ul>
