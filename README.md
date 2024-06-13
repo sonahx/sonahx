@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=peles-taras)
 
 ### <ul>
+### <li>Growing Software developer.</li>
 ### <li>Open for new opportunities.</li>
-### <li>Currently working on [Zenith chatting platform](https://github.com/peles-taras/ZenithChat-backend).</li>
 ### <li>How to reach me: [pelestaras@gmail.com](mailto:pelestaras@gmail.com), or through:</li>
 </ul>
 
@@ -14,7 +14,7 @@
 <a href="https://discordapp.com/users/230682850192523264"><img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/b389da29-aa5f-4d37-9585-ce5d7717b7b9" alt="discord"></a>
 </div>
 
-<h1>Languages:</h1>
+<h1>Language stack:</h1>
 
 <div>
 <img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/58a3a02f-be4a-468a-b2a4-c4fae9014c09" alt="java">
@@ -22,7 +22,6 @@
 <img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/448755f8-f8ac-4885-8fda-87b809d7453f" alt="html">
 <img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/671a165f-1cec-4b92-8313-f08268c48656" alt="css">
 <img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/9d73978f-9509-4286-a621-bc1bb59aa121" alt="js">
-<img height="60" src="https://github.com/peles-taras/peles-taras/assets/92885035/d86f4bc2-e9ed-4361-94d2-450ddb66242f" alt="typescript">
 </div>
 
 <h1>Tools:</h1>
