@@ -39,8 +39,8 @@
 <h1>Projects:</h1>
 
 ### <div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=TVShows_Website)](https://github.com/sonahx/TVShows_Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peles-taras&repo=ZenithChat-backend)](https://github.com/sonahx/ZenithChat-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonahx&repo=TVShows_Website)](https://github.com/sonahx/TVShows_Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonahx&repo=ZenithChat-backend)](https://github.com/sonahx/ZenithChat-backend)
 </div>
 
 ### <div>
